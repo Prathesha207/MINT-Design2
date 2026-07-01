@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: "MINT | Multimodal Intelligence & Networked Tracking"",
+  "description": "A responsive, high-fidelity bento-grid landing page for MINT (Multimodal Intelligence \u0026 Networked Tracking), showcasing industrial process intelligence, bioprocess morphometrics, and process assurance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
